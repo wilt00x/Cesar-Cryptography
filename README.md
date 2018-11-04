@@ -1,2 +1,3 @@
-# Cesar-Cryptography
-A little program written in c language for encode and decode in cesar's algorithm
+# Cesar-Cryptograpy
+
+A little program written in c for encode and decode in cesar's algorithm 
